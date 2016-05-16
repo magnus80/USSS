@@ -11,10 +11,10 @@ import java.sql.SQLException;
  */
 public class TestLoginPage extends TestBase {
 
-    @Test
-    public void testLoginPage() throws IOException, SQLException {
-        AuthorisationPage ap=new AuthorisationPage();
-        ap.login("","");
-    }
+  @Test
+  public void testLoginPage() throws IOException, SQLException {
+    AuthorisationPage ap = new AuthorisationPage();
+    ap.login("", "");
+  }
 
 }
