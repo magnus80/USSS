@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ddd950f-d1c2-4618-937f-d3507d047e87" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_3_1.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/USSS-web-tests/build/classes/test/Tests/Sanity/Func/TestBase.class" afterPath="$PROJECT_DIR$/USSS-web-tests/build/classes/test/Tests/Sanity/Func/TestBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/USSS-web-tests_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/USSS-web-tests_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/USSS-web-tests_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/USSS-web-tests_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/USSS-web-tests/build.gradle" afterPath="$PROJECT_DIR$/USSS-web-tests/build.gradle" />
-    </list>
+    <list default="true" id="5ddd950f-d1c2-4618-937f-d3507d047e87" name="Default" comment="" />
     <ignored path="USSS.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/USSS-web-tests/.gradle/" />
@@ -70,8 +63,8 @@
       <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/USSS-web-tests/src/test/java/Tests/Sanity/Func/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="300">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -1159,8 +1152,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/USSS-web-tests/src/test/java/Tests/Sanity/Func/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="300">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding />
         </state>
       </provider>
