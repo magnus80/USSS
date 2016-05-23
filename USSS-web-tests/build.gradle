@@ -11,5 +11,7 @@ dependencies{
     compile 'com.hynnet:oracle-driver-ojdbc6:12.1.0.1'
     compile 'junit:junit:4.12'
     compile 'com.codeborne:selenide:3.5.1'
+    compile 'com.squareup.retrofit2:retrofit-converters:2.0.2'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.2'
 }
 
